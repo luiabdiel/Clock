@@ -19,8 +19,9 @@ body {
 }
 
 .container {
-  height: 200px;
-  width: 550px;
+  height: 12.5rem;
+  width: 100%;
+  max-width: 34.375rem;
 
   display: flex;
   align-items: center;
@@ -32,8 +33,9 @@ body {
 }
 
 .container .content {
-  height: 170px;
-  width: 150px;
+  height: 10.625rem;
+  width: 100%;
+  max-width: 9.375rem;
 
   display: flex;
   flex-direction: column;
@@ -56,4 +58,16 @@ body {
 
 .container span.time {
   font-size: 10px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    flex-direction: column;
+
+    height: 80%;
+    width: 35%;
+  }
+
+  .content {
+  }
 }
