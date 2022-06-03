@@ -22,7 +22,7 @@ Relógio Digital Online
 
 </div>
 
-<p align="center">Relógio Digital <a href="https://luiabdiel.github.io/Clock/" target="_blank">clique aqui </a>para ver visualiza-lo</p>
+<p align="center">Relógio Digital <a href="https://luiabdiel.github.io/Clock/" target="_blank">clique aqui </a>para visualiza-lo</p>
 
 <hr>
 
